@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_suite_test">
+    <sys_atf_test_suite_test action="INSERT_OR_UPDATE">
+        <abort_on_failure>false</abort_on_failure>
+        <order/>
+        <sys_class_name>sys_atf_test_suite_test</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-18 16:22:07</sys_created_on>
+        <sys_id>0ebbb6a62fc43110c3e5d39df699b6be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>350a72e22fc43110c3e5d39df699b67a</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_test_suite_test_0ebbb6a62fc43110c3e5d39df699b6be</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-18 16:22:07</sys_updated_on>
+        <test display_value="When needed - Past">350a72e22fc43110c3e5d39df699b67a</test>
+        <test_suite display_value="When needed Field NeedIt App">0e9bfaa62fc43110c3e5d39df699b6e4</test_suite>
+    </sys_atf_test_suite_test>
+</record_update>
